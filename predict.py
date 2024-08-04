@@ -26,7 +26,7 @@ from diffusers.pipelines.stable_diffusion.safety_checker import (
     StableDiffusionSafetyChecker,
 )
 
-MODEL_NAME = "dataautogpt3/ProteusV0.2"
+MODEL_NAME = "pranavajay/kalpana"
 MODEL_CACHE = "model-cache"
 SAFETY_CACHE = "safety-cache"
 FEATURE_EXTRACTOR = "feature-extractor"
